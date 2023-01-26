@@ -4,6 +4,7 @@
     <title>home</title>
 </head>
 <body>
-Hello Spring web
+<h1>Hello Spring web</h1>
+<p>${name}</p>
 </body>
 </html>
